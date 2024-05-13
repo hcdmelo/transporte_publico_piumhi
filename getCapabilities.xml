@@ -222,7 +222,7 @@
 				<Title>rotas_transp_public_piumhi___r02</Title>
 				<Abstract>GH:rotas_transp_public_piumhi___r02 ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸//github.com/hcdmelo/transporte_publico_piumhi/releases/download/Map_Download/rotas_transp_public_piumhi___r02.zip˸notListing˸˸maxZoom˸5</Keyword>
+					<Keyword>group˸shp˸˸˸//github.com/hcdmelo/transporte_publico_piumhi/releases/download/Map_Download/rotas_transp_public_piumhi___r02.zip˸notListing˸˸maxZoom˸13</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-45.97789422723058" miny="-20.48222903449581" maxx="-45.94372710555657" maxy="-20.448636411237967"></LatLonBoundingBox>
